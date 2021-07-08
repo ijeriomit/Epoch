@@ -9,7 +9,7 @@ as well art design for characters and objects.
 Epoch runs and has been developed on Windows Systems 
 
 **To Play:**
-  * Clone this repo in your preffered directory 
+  * Clone this repo in your preffered directory. Ensure that you have every file in the repo as they are all necessary for execution
   * Launch the Epoch Pre-Alpha.exe
   * A popup unity configurtion popup will appear. Select the settings that best fit your PC
   * Hit Play and follow the game prompt
